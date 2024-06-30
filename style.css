@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html body{
+    width: 100vw;
+    height: 100vh;
+}
+body #main{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#main #facebook{
+    width: 6vw;
+    height: 6vw;
+    border-radius: 50vw;
+    background-color: rgb(4, 4, 180);
+    position: absolute;
+    left: 40vw;
+    top: 5vw;
+}
+#main button{
+    width: 15vw;
+    height: 4vw;
+    position: absolute;
+    left: 42vw;
+    top: 6vw;
+    border-radius: 2vw;
+    padding-left: 2.6vw;
+    font-size: 1.5vw;
+    border: 0;
+    color:  rgb(4, 4, 180);
+    background-color: white;
+    box-shadow: 1vw 0 1vw rgb(156, 156, 174);
+}
+#main #f{
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50vw;
+    background-color:rgb(4, 4, 180);
+    position: absolute;
+    left: 42.7vw;
+    top: 6.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+#f h3{
+   
+    color: white;
+    font-size: 2vw;
+}
+#main #whatapp{
+    width: 6vw;
+    height: 6vw;
+    border-radius: 50vw;
+    background-color: rgb(16, 149, 16);
+    position: absolute;
+    left: 40vw;
+    top: 15vw;
+}
+#main #button2{
+    height: 5vw;
+    width: 10vw;
+    /* background-color: aqua; */
+    position: absolute;
+    top:15vw ;
+    left:42vw ;
+}
+#button2 button{
+    width: 15vw;
+    height: 4vw;
+    position: absolute;
+    left: 0;
+    top: 1vw;
+    border-radius: 2vw;
+    /* padding-left: 0; */
+    font-size: 1.5vw;
+    border: 0;
+    color:  rgb(16, 149, 16);
+    background-color: white;
+    box-shadow: 1vw 0 1vw rgb(156, 156, 174);
+}
+#main #w{
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50vw;
+    background-color:rgb(16, 149, 16);
+    position: absolute;
+    left: 42.7vw;
+    top: 16.5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: none;
+}
+#w i{
+    color: white;
+    font-size: 1.7vw;
+}
+#main #yutube{
+    width: 6vw;
+    height: 6vw;
+    border-radius: 50vw;
+    background-color: rgb(231, 10, 10);
+    position: absolute;
+    left: 40vw;
+    top: 25vw;
+}
+#main #button3{
+    height: 5vw;
+    width: 10vw;
+    /* background-color: aqua; */
+    position: absolute;
+    top:25vw ;
+    left:42vw ;
+}
+#button3 button{
+        width: 15vw;
+        height: 4vw;
+        position: absolute;
+        left: 0;
+        top: 1vw;
+        border-radius: 2vw;
+        font-size: 1.5vw;
+        border: 0;
+        color:   rgb(231, 10, 10);
+        background-color: white;
+        box-shadow: 1vw 0 1vw rgb(156, 156, 174);
+    }
+    #main #y{
+        width: 3vw;
+        height: 3vw;
+        border-radius: 50vw;
+        background-color: rgb(231, 10, 10);
+        position: absolute;
+        left: 42.7vw;
+        top: 26.5vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        pointer-events: none;
+    }
+    #y i{
+        color: white;
+        font-size: 1.7vw;
+    }
+    #main #snpchat{
+        width: 6vw;
+        height: 6vw;
+        border-radius: 50vw;
+        background-color: yellow;
+        position: absolute;
+        left: 40vw;
+        top: 35vw;
+    }
+    #main #button4{
+        height: 5vw;
+        width: 10vw;
+        /* background-color: aqua; */
+        position: absolute;
+        top:35vw ;
+        left:42vw ;
+    }
+    #button4 button{
+        width: 15vw;
+        height: 4vw;
+        position: absolute;
+        left: 0;
+        top: 1vw;
+        border-radius: 2vw;
+        font-size: 1.5vw;
+        border: 0;
+        color:yellow;
+        background-color: white;
+        box-shadow: 1vw 0 1vw rgb(156, 156, 174);
+    }
+    #main #s{
+        width: 3vw;
+        height: 3vw;
+        border-radius: 50vw;
+        background-color: yellow;
+        position: absolute;
+        left: 42.7vw;
+        top: 36.5vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        pointer-events: none;
+    }
+    #s i{
+        color: white;
+        font-size: 1.8vw;
+    }
+
+
+
+
+
+
